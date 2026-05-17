@@ -1,0 +1,62 @@
+# --- Ignore Environments and Cache ---
+.venv/
+env/
+.mypy_cache/
+**/__pycache__/
+*.pyc
+
+# --- Ignore Old Pipeline Models (Keeping v6_mega safe) ---
+general_skill_extractor/
+skill_extractor_v2/
+skill_extractor_v2_fixed/
+skill_extractor_v3/
+skill_extractor_v4/
+skill_extractor_v5/
+skill_extractor_v6/
+skill_extractor_v6_final/
+
+# --- Ignore All Heavy SpaCy Binary Training Files ---
+*.spacy
+
+# --- Ignore Automatic Local Background Scripts ---
+auto_labeler.py
+evaluate_model.py
+extract_all_model_knowledge.py
+fix_lazy_model.py
+generate_data.py
+generate_test_data.py
+Model_teachfromGroq.py
+positive_reinforcement.py
+scraper.py
+SkillModeling.py
+test_disciplined_model.py
+train_real_resumes.py
+clean_database.py
+test1.py
+testmodelskil.py
+
+# --- Ignore Training Reports & Local Datasets ---
+advanced_domain_matrix_backup.json
+all_seen_skills.json
+blind_test_data.json
+candidate_profiles.json
+canonical_skills_mapped.json
+canonical_skills_mapped_perfect.json
+disciplined_model_knowledge.json
+full_model_knowledge_dump.json
+llm_corrected_data.json
+mistakes_dataset.json
+raw_scraped_data_to_review.json
+resume_texts.json
+spacy_predictions*
+synthetic_data.json
+unique_skills_report*
+verified_learned_skills.json
+
+# --- Ignore Local Test Docs/Resumes ---
+*.pdf
+*.txt
+*.docx
+generate_domain_matrix.py
+
+*.ipynb

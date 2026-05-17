@@ -1,0 +1,1404 @@
+{
+    "Associate Software Engineer (ASE)": {
+        "primary": [
+            "data structures",
+            "object-oriented programming",
+            "sql",
+            "operating systems",
+            "algorithms",
+            "c++",
+            "java"
+        ],
+        "secondary": [
+            "agile methodologies",
+            "git",
+            "python",
+            "linux",
+            "teamwork"
+        ]
+    },
+    "Graduate Engineer Trainee (GET)": {
+        "primary": [
+            "computer networks",
+            "database management systems",
+            "data warehousing",
+            "c#",
+            "network security",
+            "web development",
+            "python"
+        ],
+        "secondary": [
+            "cloud computing",
+            "devops",
+            "sql server",
+            "microservices",
+            "communication skills"
+        ]
+    },
+    "Systems Engineer Trainee": {
+        "primary": [
+            "aws",
+            "azure",
+            "google cloud platform",
+            "containerization",
+            "docker",
+            "kubernetes",
+            "cloud security"
+        ],
+        "secondary": [
+            "itil",
+            "service management",
+            "agile project management",
+            "continuous integration",
+            "ci/cd pipelines"
+        ]
+    },
+    "Programmer Analyst Trainee": {
+        "primary": [
+            "data analytics",
+            "machine learning",
+            "artificial intelligence",
+            "natural language processing",
+            "sql",
+            "python",
+            "r programming"
+        ],
+        "secondary": [
+            "data visualization",
+            "statistical analysis",
+            "data mining",
+            "predictive modeling",
+            "communication skills"
+        ]
+    },
+    "Junior Web Developer": {
+        "primary": [
+            "html/css",
+            "javascript",
+            "react",
+            "angular",
+            "vue.js",
+            "node.js",
+            "express.js"
+        ],
+        "secondary": [
+            "front-end development",
+            "back-end development",
+            "full-stack development",
+            "restful api",
+            "api design"
+        ]
+    },
+    "Senior DevOps Engineer": {
+        "primary": [
+            "jenkins",
+            "docker",
+            "kubernetes",
+            "gitlab",
+            "ci/cd pipelines",
+            "continuous integration",
+            "devops tools"
+        ],
+        "secondary": [
+            "cloud security",
+            "compliance",
+            "regulatory requirements",
+            "scrum master",
+            "team leadership"
+        ]
+    },
+    "Cloud Solutions Architect": {
+        "primary": [
+            "aws",
+            "azure",
+            "google cloud platform",
+            "cloud architecture",
+            "cloud security",
+            "networking",
+            "storage solutions"
+        ],
+        "secondary": [
+            "cloud migration",
+            "cloud cost optimization",
+            "cloud governance",
+            "compliance",
+            "regulatory requirements"
+        ]
+    },
+    "Data Engineer": {
+        "primary": [
+            "hadoop",
+            "spark",
+            "hive",
+            "pig",
+            "mapreduce",
+            "hbase",
+            "cassandra"
+        ],
+        "secondary": [
+            "data warehousing",
+            "data lakes",
+            "data governance",
+            "data quality",
+            "data security"
+        ]
+    },
+    "Full-Stack MERN Developer": {
+        "primary": [
+            "mongodb",
+            "express.js",
+            "react",
+            "node.js",
+            "javascript",
+            "mongodb atlas",
+            "mongoose"
+        ],
+        "secondary": [
+            "restful api",
+            "api design",
+            "microservices",
+            "docker",
+            "kubernetes"
+        ]
+    },
+    "Penetration Tester": {
+        "primary": [
+            "network security",
+            "vulnerability assessment",
+            "penetration testing",
+            "ethical hacking",
+            "sql injection",
+            "cross-site scripting",
+            "web application security"
+        ],
+        "secondary": [
+            "cybersecurity",
+            "incident response",
+            "threat intelligence",
+            "compliance",
+            "regulatory requirements"
+        ]
+    },
+    "software development engineer intern (sdei)": {
+        "primary": [
+            "data structures",
+            "object-oriented programming",
+            "sql databases",
+            "operating systems",
+            "algorithms",
+            "computer networks",
+            "cybersecurity basics"
+        ],
+        "secondary": [
+            "agile methodologies",
+            "version control (git)",
+            "java",
+            "python",
+            "team collaboration"
+        ]
+    },
+    "graduate systems engineer": {
+        "primary": [
+            "system administration",
+            "linux operating system",
+            "network protocols",
+            "database management",
+            "storage solutions",
+            "vmware",
+            "itil"
+        ],
+        "secondary": [
+            "troubleshooting",
+            "customer support",
+            "technical documentation",
+            "project management",
+            "collaboration"
+        ]
+    },
+    "mobile app developer trainee": {
+        "primary": [
+            "java (android)",
+            "swift (ios)",
+            "xcode",
+            "github",
+            "api integration",
+            "sql lite",
+            "mobile app security"
+        ],
+        "secondary": [
+            "ux/ui design",
+            "agile methodologies",
+            "team collaboration",
+            "ios development",
+            "android development"
+        ]
+    },
+    "junior data analyst": {
+        "primary": [
+            "data analysis",
+            "sql",
+            "python pandas",
+            "data visualization",
+            "statistical analysis",
+            "data modeling",
+            "data mining"
+        ],
+        "secondary": [
+            "data storytelling",
+            "data communication",
+            "data strategy",
+            "sql server",
+            "power bi"
+        ]
+    },
+    "artificial intelligence/machine learning engineer": {
+        "primary": [
+            "deep learning",
+            "neural networks",
+            "python tensorflow",
+            "natural language processing",
+            "computer vision",
+            "machine learning",
+            "data science"
+        ],
+        "secondary": [
+            "data preprocessing",
+            "feature engineering",
+            "model evaluation",
+            "data storytelling",
+            "collaboration"
+        ]
+    },
+    "cloud solutions architect": {
+        "primary": [
+            "aws cloudformation",
+            "azure resource manager",
+            "cloud security",
+            "cloud migration",
+            "cloud cost optimization",
+            "cloud scalability",
+            "cloud compliance"
+        ],
+        "secondary": [
+            "agile methodologies",
+            "team collaboration",
+            "technical leadership",
+            "cloud architecture",
+            "cloud deployment"
+        ]
+    },
+    "full-stack blockchain developer": {
+        "primary": [
+            "blockchain development",
+            "solidity",
+            "smart contracts",
+            "ethereum",
+            "hyperledger",
+            "blockchain security",
+            "blockchain scalability"
+        ],
+        "secondary": [
+            "distributed systems",
+            "consensus algorithms",
+            "blockchain architecture",
+            "blockchain testing",
+            "blockchain deployment"
+        ]
+    },
+    "information security compliance analyst": {
+        "primary": [
+            "information security",
+            "compliance regulations",
+            "risk management",
+            "incident response",
+            "security audits",
+            "pci dss",
+            "hipaa"
+        ],
+        "secondary": [
+            "security awareness",
+            "security training",
+            "security testing",
+            "security metrics",
+            "collaboration"
+        ]
+    },
+    "cybersecurity incident responder": {
+        "primary": [
+            "cybersecurity",
+            "incident response",
+            "threat intelligence",
+            "forensics",
+            "network security",
+            "operating systems",
+            "network analysis"
+        ],
+        "secondary": [
+            "splunk",
+            "elasticsearch",
+            "kibana",
+            "sql",
+            "python",
+            "scripting"
+        ]
+    },
+    "digital transformation consultant": {
+        "primary": [
+            "business strategy",
+            "digital transformation",
+            "change management",
+            "process improvement",
+            "organizational design",
+            "digital innovation",
+            "customer experience"
+        ],
+        "secondary": [
+            "technical leadership",
+            "stakeholder management",
+            "communications",
+            "project management",
+            "collaboration"
+        ]
+    },
+    "Associate Data Scientist": {
+        "primary": [
+            "python",
+            "statistics",
+            "machine learning",
+            "data structures",
+            "sql",
+            "data visualization",
+            "numpy",
+            "pandas"
+        ],
+        "secondary": [
+            "data storytelling",
+            "data wrangling",
+            "scikit-learn",
+            "matplotlib",
+            "statistics with r"
+        ]
+    },
+    "Cloud Security Engineer": {
+        "primary": [
+            "aws",
+            "azure",
+            "gcp",
+            "security architecture",
+            "cloud security best practices",
+            "identity and access management",
+            "cloud compliance"
+        ],
+        "secondary": [
+            "continuous integration",
+            "continuous deployment",
+            "devops",
+            "aws iam",
+            "azure ad"
+        ]
+    },
+    "Junior Network Engineer": {
+        "primary": [
+            "network protocols",
+            "tcp/ip",
+            "subnetting",
+            "routing",
+            "switching",
+            "vlan",
+            "troubleshooting"
+        ],
+        "secondary": [
+            "network security",
+            "firewalls",
+            "vpn",
+            "dhcp",
+            "network monitoring"
+        ]
+    },
+    "Full Stack Kotlin Developer": {
+        "primary": [
+            "kotlin",
+            "spring boot",
+            "hibernate",
+            "jpa",
+            "kotlin coroutines",
+            "java",
+            "sql"
+        ],
+        "secondary": [
+            "grpc",
+            "protobuf",
+            "kotlin multiplatform",
+            "kotlin native"
+        ]
+    },
+    "DevOps Engineer": {
+        "primary": [
+            "jenkins",
+            "docker",
+            "kubernetes",
+            "git",
+            "continuous integration",
+            "continuous deployment",
+            "continuous monitoring"
+        ],
+        "secondary": [
+            "aws cloudformation",
+            "azure devops",
+            "github actions",
+            "circleci"
+        ]
+    },
+    "Site Reliability Engineer": {
+        "primary": [
+            "sre principles",
+            "capacity planning",
+            "performance tuning",
+            "availability",
+            "scalability",
+            "reliability",
+            "incident management"
+        ],
+        "secondary": [
+            "terraform",
+            "cloudformation",
+            "infrastructure as code",
+            "monitoring and logging"
+        ]
+    },
+    "Database Architect": {
+        "primary": [
+            "database design",
+            "database security",
+            "database performance",
+            "sql server",
+            "oracle",
+            "mysql",
+            "database modeling"
+        ],
+        "secondary": [
+            "data warehousing",
+            "etl",
+            "database migration",
+            "database backup and recovery"
+        ]
+    },
+    "Cybersecurity Consultant": {
+        "primary": [
+            "security frameworks",
+            "risk assessment",
+            "security testing",
+            "vulnerability assessment",
+            "incident response",
+            "compliance",
+            "security awareness"
+        ],
+        "secondary": [
+            "penetration testing",
+            "red teaming",
+            "blue teaming",
+            "security metrics"
+        ]
+    },
+    "Cloud Solutions Engineer": {
+        "primary": [
+            "aws solutions",
+            "azure solutions",
+            "gcp solutions",
+            "cloud migration",
+            "cloud adoption",
+            "cloud governance",
+            "cloud security"
+        ],
+        "secondary": [
+            "terraform",
+            "cloudformation",
+            "infrastructure as code",
+            "cloud compliance"
+        ]
+    },
+    "associate technical consultant": {
+        "primary": [
+            "object-oriented programming",
+            "data structures and algorithms",
+            "database management systems",
+            "computer networks",
+            "operating systems",
+            "software engineering",
+            "problem-solving"
+        ],
+        "secondary": [
+            "agile methodologies",
+            "version control systems",
+            "team collaboration",
+            "communication skills",
+            "time management"
+        ]
+    },
+    "software development engineer": {
+        "primary": [
+            "java programming",
+            "python programming",
+            "data analysis",
+            "cloud computing",
+            "database design",
+            "software testing",
+            "api design"
+        ],
+        "secondary": [
+            "microservices architecture",
+            "containerization",
+            "continuous integration",
+            "agile methodologies",
+            "scrum master"
+        ]
+    },
+    "cybersecurity analyst": {
+        "primary": [
+            "network security",
+            "threat analysis",
+            "incident response",
+            "vulnerability assessment",
+            "compliance laws",
+            "security protocols",
+            "forensic analysis"
+        ],
+        "secondary": [
+            "aws",
+            "azure",
+            "gcp",
+            "cisco",
+            "python",
+            "sql",
+            "agile methodologies"
+        ]
+    },
+    "business analyst (it)": {
+        "primary": [
+            "business requirements gathering",
+            "data analysis",
+            "project management",
+            "stakeholder management",
+            "solution design",
+            "business process analysis",
+            "requirements specification"
+        ],
+        "secondary": [
+            "agile methodologies",
+            "scrum master",
+            "jira administration",
+            "business process re-engineering",
+            "requirements documentation"
+        ]
+    },
+    "software quality engineer": {
+        "primary": [
+            "software testing",
+            "test automation",
+            "quality assurance",
+            "test planning",
+            "test execution",
+            "defect management",
+            "quality metrics"
+        ],
+        "secondary": [
+            "test-driven development",
+            "behavior-driven development",
+            "continuous testing",
+            "agile methodologies",
+            "test coordination"
+        ]
+    },
+    "cloud solutions engineer": {
+        "primary": [
+            "aws cloud platform",
+            "azure cloud platform",
+            "google cloud platform",
+            "cloud migration",
+            "cloud security",
+            "cloud scalability",
+            "cloud architecture"
+        ],
+        "secondary": [
+            "containerization",
+            "continuous integration",
+            "microservices architecture",
+            "serverless computing",
+            "cloud cost optimization"
+        ]
+    },
+    "data engineer": {
+        "primary": [
+            "data warehousing",
+            "data lakes",
+            "data pipelines",
+            "data governance",
+            "data quality",
+            "data architecture",
+            "data modeling"
+        ],
+        "secondary": [
+            "hadoop ecosystem",
+            "spark programming",
+            "no sql databases",
+            "data visualization",
+            "data storytelling"
+        ]
+    },
+    "full-stack kotlin developer": {
+        "primary": [
+            "kotlin programming",
+            "spring boot",
+            "kotlin coroutines",
+            "kotlin lambda",
+            "reactive programming",
+            "kotlin extensions",
+            "kotlin multiplatform"
+        ],
+        "secondary": [
+            "kotlin android development",
+            "kotlin ios development",
+            "kotlin web development",
+            "kotlin testing",
+            "kotlin code analysis"
+        ]
+    },
+    "devops engineer": {
+        "primary": [
+            "python",
+            "aws",
+            "docker",
+            "kubernetes",
+            "jenkins",
+            "git",
+            "sqlalchemy"
+        ],
+        "secondary": [
+            "cloudformation",
+            "terraform",
+            "sql",
+            "mysql",
+            "postgresql",
+            "deployment strategies"
+        ]
+    },
+    "entry level machine learning engineer": {
+        "primary": [
+            "data structures",
+            "oop",
+            "sql",
+            "operating systems",
+            "python",
+            "statistics",
+            "linear algebra"
+        ],
+        "secondary": [
+            "deep learning",
+            "data visualization",
+            "data preprocessing",
+            "model evaluation",
+            "collaboration",
+            "time management"
+        ]
+    },
+    "systems engineer trainee": {
+        "primary": [
+            "data structures",
+            "oop",
+            "sql",
+            "operating systems",
+            "networking",
+            "cybersecurity",
+            "linux"
+        ],
+        "secondary": [
+            "aws",
+            "azure",
+            "docker",
+            "kubernetes",
+            "agile methodologies",
+            "communication"
+        ]
+    },
+    "junior web developer": {
+        "primary": [
+            "html",
+            "css",
+            "javascript",
+            "react",
+            "nodejs",
+            "express",
+            "mongodb"
+        ],
+        "secondary": [
+            "web security",
+            "ui/ux design",
+            "responsive design",
+            "performance optimization",
+            "team collaboration"
+        ]
+    },
+    "graduate network engineer": {
+        "primary": [
+            "data structures",
+            "oop",
+            "sql",
+            "operating systems",
+            "networking",
+            "cybersecurity",
+            "cisco"
+        ],
+        "secondary": [
+            "sdn",
+            "software defined networking",
+            "network virtualization",
+            "collaboration",
+            "time management",
+            "technical writing"
+        ]
+    },
+    "junior data scientist": {
+        "primary": [
+            "data structures",
+            "oop",
+            "sql",
+            "statistics",
+            "linear algebra",
+            "python",
+            "r"
+        ],
+        "secondary": [
+            "data visualization",
+            "data preprocessing",
+            "model evaluation",
+            "collaboration",
+            "communication",
+            "project management"
+        ]
+    },
+    "cloud security architect": {
+        "primary": [
+            "aws",
+            "azure",
+            "gcp",
+            "cloud security",
+            "iam",
+            "identity management",
+            "access control"
+        ],
+        "secondary": [
+            "cloud compliance",
+            "pci-dss",
+            "hipaa",
+            "nist 800-53",
+            "risk assessment",
+            "cloud migration"
+        ]
+    },
+    "full stack kotlin developer": {
+        "primary": [
+            "kotlin",
+            "spring",
+            "hibernate",
+            "mysql",
+            "javascript",
+            "html5",
+            "css3"
+        ],
+        "secondary": [
+            "kotlin coroutines",
+            "kotlin extensions",
+            "kotlinx serialization",
+            "junit",
+            "kotlinx.coroutines"
+        ]
+    },
+    "penetration tester": {
+        "primary": [
+            "networking",
+            "cybersecurity",
+            "penetration testing",
+            "vulnerability assessment",
+            "web application security",
+            "network security",
+            "linux"
+        ],
+        "secondary": [
+            "ethical hacking",
+            "network protocol analysis",
+            "network intrusion detection",
+            "incident response",
+            "collaboration"
+        ]
+    },
+    "ml engineer": {
+        "primary": [
+            "machine learning",
+            "python",
+            "numpy",
+            "pandas",
+            "scikit-learn",
+            "tensorflow",
+            "k-means"
+        ],
+        "secondary": [
+            "cloud platforms",
+            "docker",
+            "kubernetes",
+            "data visualization",
+            "sql"
+        ]
+    },
+    "solutions architect": {
+        "primary": [
+            "system design",
+            "architecture patterns",
+            "microservices",
+            "containerization",
+            "service discovery",
+            "api gateway",
+            "cicd"
+        ],
+        "secondary": [
+            "cloud migration",
+            "devops",
+            "docker",
+            "kubernetes",
+            "aws",
+            "azure"
+        ]
+    },
+    "cybersecurity auditor": {
+        "primary": [
+            "security testing",
+            "penetration testing",
+            "cryptography",
+            "access control",
+            "identity management",
+            "incident response",
+            "risk management"
+        ],
+        "secondary": [
+            "compliance",
+            "regulatory frameworks",
+            "vulnerability assessment",
+            "security information and event management",
+            "network protocols"
+        ]
+    },
+    "full stack developer": {
+        "primary": [
+            "javascript",
+            "html5",
+            "css3",
+            "node.js",
+            "express.js",
+            "mongodb",
+            "mysql"
+        ],
+        "secondary": [
+            "bootstrap",
+            "sass",
+            "npm",
+            "yarn",
+            "linux",
+            "git",
+            "team collaboration"
+        ]
+    },
+    "qa automation engineer": {
+        "primary": [
+            "java",
+            "testng",
+            "selenium",
+            "mysql",
+            "javascript",
+            "cucumber",
+            "junit"
+        ],
+        "secondary": [
+            "git",
+            "jenkins",
+            "appium",
+            "katalon studio",
+            "sql",
+            "test data management"
+        ]
+    },
+    "database administrator": {
+        "primary": [
+            "sql",
+            "mysql",
+            "postgresql",
+            "mongodb",
+            "sql server",
+            "data modeling",
+            "data architecture"
+        ],
+        "secondary": [
+            "sql server management studio",
+            "sqlalchemy",
+            "data orm",
+            "sql performance tuning",
+            "sql backup recovery"
+        ]
+    },
+    "technical business analyst": {
+        "primary": [
+            "business analysis",
+            "data analysis",
+            "sql",
+            "mysql",
+            "data visualization",
+            "data storytelling",
+            "requirements gathering"
+        ],
+        "secondary": [
+            "agile",
+            "scrum",
+            "team leading",
+            "sql server",
+            "sqlalchemy",
+            "business intelligence"
+        ]
+    },
+    "cloud security engineer": {
+        "primary": [
+            "cloud security",
+            "aws security",
+            "azure security",
+            "gcp security",
+            "identity and access management",
+            "encryption",
+            "key management"
+        ],
+        "secondary": [
+            "cloud security compliance",
+            "cloud security governance",
+            "cloud security architecture",
+            "cloud security monitoring"
+        ]
+    },
+    "network engineer": {
+        "primary": [
+            "network protocols",
+            "network architecture",
+            "routing and switching",
+            "firewalls",
+            "vpn",
+            "network security",
+            "network management"
+        ],
+        "secondary": [
+            "sdwan",
+            "sdn",
+            "network virtualization",
+            "cloud networking",
+            "collaboration tools"
+        ]
+    },
+    "mlops engineer": {
+        "primary": [
+            "python",
+            "aws",
+            "docker",
+            "kubernetes",
+            "machine learning",
+            "data science",
+            "scikit learn"
+        ],
+        "secondary": [
+            "git",
+            "jenkins",
+            "cloudformation",
+            "sqlalchemy",
+            "data visualization"
+        ]
+    },
+    "full stack azure developer": {
+        "primary": [
+            "c#",
+            "azure",
+            "sql server",
+            "javascript",
+            ".net",
+            "html css",
+            "azure devops"
+        ],
+        "secondary": [
+            "agile",
+            "scrum",
+            "team leading",
+            "azure active directory",
+            "sql server management studio"
+        ]
+    },
+    "junior front end developer": {
+        "primary": [
+            "html css",
+            "javascript",
+            "react",
+            "typescript",
+            "css",
+            "react router",
+            "redux"
+        ],
+        "secondary": [
+            "git",
+            "github",
+            "npm",
+            "webpack",
+            "es6 syntax",
+            "javascript frameworks"
+        ]
+    },
+    "full stack java developer": {
+        "primary": [
+            "java",
+            "spring",
+            "hibernate",
+            "mysql",
+            "angular",
+            "hibernate query language",
+            "spring security"
+        ],
+        "secondary": [
+            "maven",
+            "git",
+            "jenkins",
+            "sql",
+            "javafx",
+            "spring boot"
+        ]
+    },
+    "sre engineer": {
+        "primary": [
+            "python",
+            "aws",
+            "docker",
+            "kubernetes",
+            "unix",
+            "bash",
+            "linux"
+        ],
+        "secondary": [
+            "jenkins",
+            "git",
+            "kibana",
+            "elasticsearch",
+            "sqlalchemy"
+        ]
+    },
+    "data architect": {
+        "primary": [
+            "sql",
+            "mysql",
+            "mongodb",
+            "postgresql",
+            "data warehouse",
+            "data mining",
+            "data modeling"
+        ],
+        "secondary": [
+            "data visualization",
+            "data storytelling",
+            "sql server",
+            "sqlalchemy",
+            "data orm"
+        ]
+    },
+    "systems administrator": {
+        "primary": [
+            "linux",
+            "unix",
+            "bash",
+            "bash scripting",
+            "ssh",
+            "ftp",
+            "sftp"
+        ],
+        "secondary": [
+            "active directory",
+            "ldap",
+            "sql",
+            "mysql",
+            "postgresql",
+            "network administration"
+        ]
+    },
+    "backend java developer": {
+        "primary": [
+            "java",
+            "spring framework",
+            "hibernate",
+            "sql",
+            "mysql",
+            "git",
+            "maven"
+        ],
+        "secondary": [
+            "swagger",
+            "docker",
+            "jenkins",
+            "linux",
+            "unix"
+        ]
+    },
+    "data intelligence engineer": {
+        "primary": [
+            "sql",
+            "python",
+            "matplotlib",
+            "seaborn",
+            "numpy",
+            "pandas",
+            "scikit-learn"
+        ],
+        "secondary": [
+            "power bi",
+            "tableau",
+            "data visualization",
+            "data mining",
+            "statistics"
+        ]
+    },
+    "cybersecurity operations center": {
+        "primary": [
+            "aws",
+            "azure",
+            "gcp",
+            "splunk",
+            "elastic",
+            "logstash",
+            "kibana"
+        ],
+        "secondary": [
+            "security information and event management",
+            "threat intelligence",
+            "incident response"
+        ]
+    },
+    "technical writer": {
+        "primary": [
+            "technical writing",
+            "content strategy",
+            "content management",
+            "editorial",
+            "publication",
+            "style guide",
+            "information design"
+        ],
+        "secondary": [
+            "markdown",
+            "jekyll",
+            "github pages",
+            "documentation",
+            "technical documentation"
+        ]
+    },
+    "aws cloud developer": {
+        "primary": [
+            "aws",
+            "python",
+            "aws lambda",
+            "aws api gateway",
+            "aws dynamodb",
+            "aws s3",
+            "aws cloudformation"
+        ],
+        "secondary": [
+            "serverless",
+            "ci/cd",
+            "docker",
+            "kubernetes"
+        ]
+    },
+    "software test engineer": {
+        "primary": [
+            "java",
+            "python",
+            "junit",
+            "pyunit",
+            "test-driven development",
+            "test automation",
+            "git"
+        ],
+        "secondary": [
+            "test frameworks",
+            "test data management",
+            "test reporting"
+        ]
+    },
+    "digital transformation analyst": {
+        "primary": [
+            "digital transformation",
+            "business analysis",
+            "solution design",
+            "project management",
+            "data analysis",
+            "data visualization",
+            "business process re-engineering"
+        ],
+        "secondary": [
+            "lean six sigma",
+            "agile methodology",
+            "scrum framework"
+        ]
+    },
+    "information security analyst": {
+        "primary": [
+            "risk management",
+            "compliance",
+            "security governance",
+            "incident response",
+            "vulnerability management",
+            "penetration testing",
+            "security testing"
+        ],
+        "secondary": [
+            "security information and event management",
+            "threat intelligence",
+            "security awareness"
+        ]
+    },
+    "front end developer": {
+        "primary": [
+            "javascript",
+            "html5",
+            "css3",
+            "react",
+            "angular",
+            "vue",
+            "responsive design"
+        ],
+        "secondary": [
+            "bootstrap",
+            "sass",
+            "npm",
+            "yarn",
+            "linux",
+            "git",
+            "team collaboration"
+        ]
+    },
+    "cloud architect": {
+        "primary": [
+            "aws architecture",
+            "azure design patterns",
+            "gcp best practices",
+            "cloud security",
+            "migration planning",
+            "cost optimization",
+            "scalability"
+        ],
+        "secondary": [
+            "containerization",
+            "serverless",
+            "kubernetes",
+            "docker",
+            "cloudformation",
+            "devops",
+            "agile methodologies"
+        ]
+    },
+    "data scientist": {
+        "primary": [
+            "machine learning",
+            "data visualization",
+            "statistical analysis",
+            "data mining",
+            "sql",
+            "python",
+            "r"
+        ],
+        "secondary": [
+            "tableau",
+            "power bi",
+            "d3.js",
+            "numpy",
+            "pandas",
+            "scikit-learn",
+            "big data"
+        ]
+    },
+    "qa engineer": {
+        "primary": [
+            "test automation",
+            "test planning",
+            "test execution",
+            "test reporting",
+            "agile methodologies",
+            "sql",
+            "java"
+        ],
+        "secondary": [
+            "selenium",
+            "cucumber",
+            "junit",
+            "testng",
+            "python",
+            "jira",
+            "confluence"
+        ]
+    },
+    "security compliance officer": {
+        "primary": [
+            "security protocols",
+            "compliance laws",
+            "risk management",
+            "incident response",
+            "audit planning",
+            "audit execution",
+            "reporting"
+        ],
+        "secondary": [
+            "cio suite",
+            "risk management framework",
+            "iso 27001",
+            "pci dss",
+            "hipaa",
+            "itil",
+            "agile methodologies"
+        ]
+    },
+    "software engineer": {
+        "primary": [
+            "software design",
+            "software development",
+            "testing",
+            "debugging",
+            "problem-solving",
+            "communication skills",
+            "team collaboration"
+        ],
+        "secondary": [
+            "java",
+            "python",
+            "c++",
+            "agile methodologies",
+            "scrum",
+            "jira",
+            "linux"
+        ]
+    },
+    "technical project manager": {
+        "primary": [
+            "project planning",
+            "project execution",
+            "project monitoring",
+            "communication skills",
+            "team management",
+            "risk management",
+            "agile methodologies"
+        ],
+        "secondary": [
+            "jira",
+            "asana",
+            "trello",
+            "confluence",
+            "team collaboration",
+            "time management",
+            "leadership skills"
+        ]
+    }
+}
